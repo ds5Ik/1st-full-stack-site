@@ -1,2 +1,2 @@
-# 1st-full-stack-site
-this is my start into coding world :D
+# 1st-full-stack-software
+this is my start into engineering world :D
